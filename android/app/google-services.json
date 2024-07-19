@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "873608850119",
+    "firebase_url": "https://tutor-45d54-default-rtdb.firebaseio.com",
+    "project_id": "tutor-45d54",
+    "storage_bucket": "tutor-45d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873608850119:android:926d70bb4c0f5fc7faace2",
+        "android_client_info": {
+          "package_name": "com.aries.tutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2CkdKhCkUri2o48Q0vulG1t9GiykfuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
